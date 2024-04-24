@@ -1,4 +1,4 @@
 ---
-Github pages: Hello world
+First blog: Hello world
 ---
 
